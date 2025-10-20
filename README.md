@@ -11,7 +11,6 @@
 **Observation:**  
 The model shows **steady convergence** with balanced training and validation performance, indicating **no major overfitting** and strong generalization.
 
-![Training and Validation Results](plots/resnet50_training.png)
 
 ---
 
